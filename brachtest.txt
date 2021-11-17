@@ -2,3 +2,5 @@ aaaaa
 bbbbb hot_fix add
 hot_fix second add
 hot_fix thired add hot_fix 1add
+hot_fix thired add master 1add
+>>>>>>> master
